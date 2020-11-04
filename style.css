@@ -8,6 +8,11 @@ form button {
     color: #fff;
     margin: 0 8px 10px 0;
 }
+body{
+  background-color:#FEFCFB;
+  font-family:Helvetica, Arial;
+  color:#0A1128;
+}
 main {
   padding: 20px 0;
 }
@@ -18,17 +23,15 @@ section {
 
 main h1 {
   margin: 0 10px;
-  border-bottom: 1px solid gray;
+  border-bottom: 1px solid  #819EBA;
 }
 
 main h2 {
   margin: 12px 10px;
-  border-bottom: 1px solid lightgray;
+  border-bottom: 1px solid  #819EBA;
 }
 
-main img {
-  width: 100%;
-}
+
 
 /* Contact Form - Image */
 
