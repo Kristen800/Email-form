@@ -23,21 +23,20 @@ section {
 
 main h1 {
   margin: 0 10px;
-  border-bottom: 1px solid  #819EBA;
+  border-bottom: 1px solid #819EBA;
 }
 
 main h2 {
   margin: 12px 10px;
-  border-bottom: 1px solid  #819EBA;
+  border-bottom: 1px solid #819EBA;
 }
 
 
 
-/* Contact Form - Image */
-
-.contact-image {
-  border: 1px solid #ababab;
-  border-radius: 8px;
+label{
+  font-family:"Helvetica","Arial";
+  font-variant:small-caps;
+  color:#B5D6E0;
 }
 
 /* Groups & Items  (Mobile First) */
