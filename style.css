@@ -5,7 +5,7 @@ form button {
     font-family: Tahoma;
     font-size: 16px;
     background: #001F52;
-    color:#034078;
+    color:#B5D6E0;
     margin: 0 8px 10px 0;
 }
 body{
@@ -29,6 +29,9 @@ main h1 {
 main h2 {
   margin: 12px 10px;
   border-bottom: 1px solid #819EBA;
+  color:#B5D6E0;
+  font-family:"Helvetica","Arial";
+  font-variant:small-caps;
 }
 
 
@@ -36,7 +39,7 @@ main h2 {
 label{
   font-family:"Helvetica","Arial";
   font-variant:small-caps;
-  color:#B5D6E0;
+  color:#034078;
 }
 
 /* Groups & Items  (Mobile First) */
